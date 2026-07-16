@@ -114,16 +114,7 @@ Frontend starts at **http://localhost:5173** (API requests proxy to port 8080)
         └── utils/
 ```
 
-## Security Notes
 
-This is a **demo/educational project**. Before any real-world deployment, you would need:
-
-- HTTPS everywhere
-- Rate limiting & fraud detection
-- Email verification & password reset flows
-- Audit logging & compliance controls
-- Professional penetration testing
-- Regulatory compliance review
 
 ## Build for Production
 
