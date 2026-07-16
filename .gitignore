@@ -1,0 +1,21 @@
+node_modules/
+dist/
+build/
+.env
+
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.class
+backend/maven.zip
+backend/apache-maven-*/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
