@@ -50,9 +50,7 @@ mvn spring-boot:run
 
 Backend starts at **http://localhost:8080**
 
-On first startup, a default admin account is created:
-- **Email:** admin@securebank.com
-- **Password:** admin123
+
 
 ## Running the Frontend
 
